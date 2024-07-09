@@ -1,0 +1,1 @@
+print("function 1 work")
